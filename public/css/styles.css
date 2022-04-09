@@ -6875,3 +6875,13 @@ progress {
   margin-right: 1.5rem;
   color: #234dd4;
 }
+
+.hero {
+  padding: 0 70px;
+}
+.hero__images {
+  display: flex;
+}
+.hero__image {
+  width: 100%;
+}
